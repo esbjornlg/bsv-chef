@@ -5,7 +5,7 @@ import random
 from src.controllers.controller import Controller
 from src.util.dao import DAO
 
-from src.static.diets import Diet
+from static.diets import Diet
 from src.util.calculator import calculate_readiness
 
 class ReceipeController(Controller):
